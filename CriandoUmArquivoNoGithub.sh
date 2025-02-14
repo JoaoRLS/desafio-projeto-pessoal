@@ -1,2 +1,3 @@
 #!/bin/bash
-scho "Criando nosso primeiro arquivo Shell"  
+scho "Criando nosso primeiro arquivo Shell"
+Alterando arquivo.  
